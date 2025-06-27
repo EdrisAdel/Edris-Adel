@@ -1,8 +1,2 @@
 # Edris Adel GitHub Portfolio
-This repo will include:
-
-  -Projects
-  
-  -School Work
-  
-  -And more...
+This Repo will hold my old history of CS Assignments and random projects.
